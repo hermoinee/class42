@@ -1,0 +1,29 @@
+Elements of Game Design
+
+1. PC(Playing charecter) & NPC (Non-Plaing Charecter)  
+    PC-Pacman
+    NPC-Ghost 
+2. Goal- Eat all dots &control the Pacman to keep it safe
+3.Rules-Pacman has four lives 
+              moves by arrow keys 
+              the ghost moves randomly 
+              the power pallets give energy 
+              Pacman eats dots 
+              when all four lives are overame is lost
+              if pacma eats all dots before all lives lose game is won 
+4. Game should be balanced.(neither too difficult nor too easy)
+5.Game Adaptivity.(difficulty level inc as the game progresses)
+6.Game Levels.
+7. Elements of Chance(random numbers)/Skill(skill of the player).
+8.FeedBack.(Score,Sound,Display some Messge,Losing Lives). 
+9.Story.                                            
+
+-OOP
+-Physics
+-Conditional Programming
+-Loops
+-Bounce
+-Collide,displays,isTouching.
+-Groups
+-infinite groud
+-spawnning of game objects 
